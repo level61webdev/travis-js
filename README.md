@@ -6,3 +6,5 @@ a demo for travis ci with github
 1. edit README file
 
 2. expect fail, syntax error in hello.js
+
+3. hello.js fixed
